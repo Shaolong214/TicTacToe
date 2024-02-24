@@ -1,6 +1,13 @@
 # TicTacToe
 *Author: Shaolong Xu*
 
+**Usage:**
+1. 
+
+2. 
+
+
+
 **Introduction:**
 
 In the modern realm of distributed systems, RMI (Remote Method Invocation) has emerged as a paragon of seamless remote interactions, particularly within Java environments. Capitalizing on the potency of RMI, this report delves into the meticulous design of a distributed Tic-Tac-Toe gaming framework. Designed using Java and harnessed by RMI, the system is tailored to accommodate an array of players concurrently. Beyond the game's core mechanics, the system pioneers an integrated chat facility, allowing players to engage in real-time conversations. This is further complemented by an intuitive graphical user interface (GUI) for the client, while the server, strategically devoid of a GUI, maintains its focus on adeptly orchestrating the gaming sessions.
