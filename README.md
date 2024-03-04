@@ -2,7 +2,7 @@
 *Author: Shaolong Xu*
 
 **Usage:**
-Welcome to my application! Here's how you can get started in a professional, intuitive, and simple manner:
+To get started with my application, please follow these straightforward steps:
 
 **1. Starting the Server**
 
