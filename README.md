@@ -7,7 +7,7 @@ To get started with my application, please follow these straightforward steps:
 **1. Starting the Server**
 
  - Open your terminal application.
- - Navigate to the directory where the application files are located.
+ - Navigate to the directory where the application files (Server.jar and Client.jar) are located.
  - To initiate the server, execute the following command, replacing <ip> with your IP address and <port> with the desired port number:
 
 `java -jar Server.jar <ip> <port>`
