@@ -2,9 +2,25 @@
 *Author: Shaolong Xu*
 
 **Usage:**
-1. 
+Welcome to my application! Here's how you can get started in a professional, intuitive, and simple manner:
 
-2. 
+**1. Starting the Server**
+
+ - Open your terminal application.
+ - Navigate to the directory where the application files are located.
+ - To initiate the server, execute the following command, replacing <ip> with your IP address and <port> with the desired port number:
+
+`java -jar Server.jar <ip> <port>`
+
+**2. Launching the Client**
+
+ - In the same or a new terminal window, navigate to the application's directory.
+ - Start the client by running the following command, where you replace <username> with your desired username, <server_ip> with the server's IP address, and <server_port> with the server's port number:
+
+`java -jar Client.jar <username> <server_ip> <server_port>`
+
+To enhance your gaming experience, you can launch multiple clients. Simply repeat the client launch step on additional terminal windows, providing a unique <username> for each.
+
 
 
 
