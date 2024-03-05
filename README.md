@@ -91,3 +91,19 @@ The Distributed Tic-Tac-Toe System, meticulously crafted with Java and RMI, stan
 The system's resilience to disruptions, particularly through the `GameSession` and `Player` classes, ensures an uninterrupted and consistent gaming experience, even in the face of sporadic connectivity issues. This, coupled with the strategic use of `ServerInterface` and `ClientInterface`, establishes a structured communication blueprint between the server and client, albeit with a level of rigidity that might necessitate cascading changes for any alterations.
 
 While the current implementation provides a stable and engaging gaming platform, future enhancements could potentially explore avenues like player profiles, leader boards, and game replays to enrich user experience, alongside bolstering security through data encryption and secure RMI connections. In essence, the project not only serves as a viable model for distributed gaming systems but also as a foundation upon which further advancements and features can be seamlessly integrated, paving the way for a more enriched and secure gaming environment in future iterations.
+
+**User intrerfaces**
+
+User interfaces of the game:
+
+![3021709648177_ pic](https://github.com/Shaolong214/TicTacToe/assets/103941617/8ce4c840-0029-4fd3-8de8-1ce4f4de61da)
+![3031709648177_ pic](https://github.com/Shaolong214/TicTacToe/assets/103941617/adb688cd-bc30-42e0-8363-2db7a050e360)
+![3041709648177_ pic](https://github.com/Shaolong214/TicTacToe/assets/103941617/f161f594-b602-4285-b2be-bb9d8783e0aa)
+![3061709648177_ pic](https://github.com/Shaolong214/TicTacToe/assets/103941617/d9d88f6b-bb14-4a29-b98c-742841b76d85)
+![3071709648177_ pic](https://github.com/Shaolong214/TicTacToe/assets/103941617/822d40c0-9ce9-4ca9-bb7c-6c0747f74082)
+![3081709648177_ pic](https://github.com/Shaolong214/TicTacToe/assets/103941617/0c07dcfb-d4df-448d-ae6e-45d6e2e6a7b6)
+![3091709648177_ pic](https://github.com/Shaolong214/TicTacToe/assets/103941617/9d78220f-217e-4f1f-97ee-b4aa45b628f9)
+![3111709648315_ pic](https://github.com/Shaolong214/TicTacToe/assets/103941617/24b54eed-c009-4c9d-98e9-72c8638a8a79)
+![3121709648315_ pic](https://github.com/Shaolong214/TicTacToe/assets/103941617/583c4c61-936d-4706-b233-ad53b9911a3e)
+![3131709648361_ pic](https://github.com/Shaolong214/TicTacToe/assets/103941617/1b3f5454-ef70-4141-9d23-31bde61f9178)
+![3101709648177_ pic](https://github.com/Shaolong214/TicTacToe/assets/103941617/a2fbd010-17d7-4106-a8cd-f944a46189a3)
